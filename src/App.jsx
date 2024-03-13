@@ -67,7 +67,7 @@ function App() {
           <Items content="PAGE" />
         </Navbar>
         <LogoAndMedias />
-        <button id='Translate'a href='https://italy-spanish.vercel.app/'>Spanish</button>
+        <a id='Translate' href='https://italy-spanish.vercel.app/'>Spanish</a>
       </Header>
       <Main>
         <Section id='Profile' contentTitle='Introduction' >
